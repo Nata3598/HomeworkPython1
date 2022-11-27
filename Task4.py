@@ -11,7 +11,7 @@ elif num == 3:
     print('x < 0; y < 0')
 elif num == 4:
     print('x > 0; y < 0')
-elif num > 4 or num < 1:
+else:
     print('Неверно введены данные')
 
 
